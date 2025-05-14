@@ -1,3 +1,3 @@
 data(iris)
 summary(iris)
-mean(iris$Sepal.Length)
+
